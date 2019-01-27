@@ -1877,6 +1877,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Brandon Myles Solution (Difficult)](https://bmyles10.github.io/google-search/) - [View in Browser (Easy)](https://bmyles10.github.io/google-homepage/)
 * [Krunoslav Stefanek Solution (Difficult)](https://krunopz.github.io/google-homepage/google-homepage-difficult/) - [View in Browser (Easy)](https://krunopz.github.io/google-homepage/)
 * [Paultex11's Solution (Easy)] (https://github.com/paultex11/google-homepage) - [View In Browser] (https://paultex11.github.io/google-homepage/)
+* [Laureline Paris' Solution (Easy)](https://github.com/LaurelineP/Google-Homepage) - [View in Browser](https://laurelinep.github.io/Google-Homepage/)
 
 
 ### Additional Resources
